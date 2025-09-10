@@ -25,7 +25,8 @@
   justify-content: center;
   flex-direction: column;
   gap: 40px;
-  font-family: 'Times New Roman', Times, serif;}
+  font-family: 'Times New Roman', Times, serif;
+}
 .counter {
   width: fit-content;
   height: fit-content;
@@ -59,17 +60,61 @@
   width: 100%;
   height: 50vh;
   background-color: rgb(153, 51, 110);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.input{
+  width: 250px;
+  height: 50px;
+  font-size: 20px;
 }
 
 /* ------------ */
+
+/* Letra C */
 .square3{
   width: 100%;
   height: 50vh;
   background-color: rgb(153, 129, 51);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 40px;
+  font-family: 'Times New Roman', Times, serif;
 }
+.element {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  background-color: rgb(88, 25, 25);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 45px;
+}
+.button-view {
+  width: 350px;
+  height: 75px;
+  background-color: rgb(51, 114, 114);
+  font-size: 25px;
+}
+
+/* ------------ */
 .square4{
   width: 100%;
   height: 50vh;
   background-color: rgb(51, 150, 153);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 40px;
+  font-family: 'Times New Roman', Times, serif;
 }
 
