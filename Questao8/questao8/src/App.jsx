@@ -40,7 +40,8 @@ function App() {
           }
         </div>
         <div className='square4'>
-          <h1>Corriga com Carinho, não foi facil!!</h1>
+          <h2>Por Hoje é isso Nicolas</h2>
+          <h1>Autoria: Rebeca Silveira Ianz</h1>
         </div>
       </div>
     </div>
